@@ -1,141 +1,187 @@
-# 🩸 Olá! Eu sou o Lucas Aguis Costa
-
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 **Estudante de Informática — 1º Ano**
-🏫 **Etec Alberto Santos Dumont**
-🐍 Atualmente aprendendo **Python**
-🎯 Futuro **Full Stack Developer & Social Media**
-
----
-
-## 👨‍💻 Sobre mim
-
-Olá! Eu sou o **Lucas Aguis Costa**, estudante de Informática na **Etec Alberto Santos Dumont**.
-
-Atualmente estou no **1º ano** e começando minha jornada na programação. No momento, meu principal foco é aprender **Python**, entender melhor lógica de programação e desenvolver projetos cada vez mais completos.
-
-Além da programação, também tenho interesse pela área de **Social Media**, principalmente pela parte de criação de conteúdo, comunicação e presença digital.
-
-Meu objetivo é unir **tecnologia + criatividade**, evoluindo tanto na programação quanto na criação de conteúdo.
-
----
-
-## 🚀 Minha jornada
-
-```text
-📚 1º Ano de Informática
-        │
-        ▼
-🐍 Aprendendo Python
-        │
-        ▼
-💻 Desenvolvendo projetos
-        │
-        ▼
-🌐 Aprendendo desenvolvimento Web
-        │
-        ▼
-⚡ Full Stack Developer
-        │
-        └──────► 📱 Social Media
-```
-
----
-
-## 🛠️ Tecnologias
-
-### 📖 Atualmente estudando
-
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=red"/>
-</p>
-
-### 🔮 Próximos objetivos
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=red"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=red"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=red"/>
-</p>
-
-> 🚧 Tecnologias acima fazem parte dos meus próximos objetivos de aprendizado.
-
----
-
-## 🎯 Objetivos
-
-* 🐍 Evoluir meus conhecimentos em Python
-* 🧠 Melhorar minha lógica de programação
-* 💻 Criar meus próprios projetos
-* 🌐 Aprender desenvolvimento Web
-* ⚙️ Conhecer Back-end e Front-end
-* 🚀 Me tornar um desenvolvedor Full Stack
-* 📱 Trabalhar com Social Media
-* 🎨 Unir programação, criatividade e conteúdo digital
-
----
-
-## 🎮 Hobbies & Interesses
-
-⚽ **Futebol**
-🎮 **Jogos**
-🎵 **Música**
-🍥 **Anime**
-💻 **Tecnologia e programação**
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000"/>
+# 🩸 LUCAS AGUIS COSTA
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000"/>
+### `Informática • Python • Full Stack • Social Media`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Estudante+de+Inform%C3%A1tica;Aprendendo+Python;Futuro+Full+Stack+Developer;Futuro+Social+Media;Transformando+ideias+em+c%C3%B3digo." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🔥 Atualmente
+## 👋 Sobre mim
 
 ```python
-class Lucas:
-    def __init__(self):
-        self.name = "Lucas Aguis Costa"
-        self.school = "Etec Alberto Santos Dumont"
-        self.course = "Informática"
-        self.year = 1
-        self.learning = ["Python"]
-        self.goal = ["Full Stack", "Social Media"]
-        self.hobbies = ["Futebol", "Jogos", "Música", "Anime"]
+lucas = {
+    "nome": "Lucas Aguis Costa",
+    "curso": "Informática",
+    "ano": "1º ano",
+    "instituição": "Etec Alberto Santos Dumont",
+    "estudando": ["Python"],
+    "objetivos": ["Full Stack Developer", "Social Media"],
+    "interesses": ["Tecnologia", "Programação", "Criação de conteúdo"]
+}
+```
 
-    def keep_learning(self):
-        return "🚀 Sempre evoluindo..."
+Sou estudante de **Informática** e estou no início da minha jornada na programação.
+
+Atualmente estou focado em aprender **Python**, desenvolver minha lógica de programação e começar a construir meus próprios projetos.
+
+No futuro, pretendo trabalhar tanto com **desenvolvimento Full Stack** quanto com **Social Media**, unindo tecnologia, criatividade e comunicação.
+
+---
+
+# 🧠 Atualmente estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+
+### Python
+
+`Lógica de programação` • `Estruturas de dados` • `Projetos`
+
+</div>
+
+---
+
+# 🚀 Roadmap
+
+```text
+                    MINHA JORNADA
+
+                         🧠
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │    Python   │
+                  └──────┬──────┘
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │  Web / SQL  │
+                  └──────┬──────┘
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+        ┌───────────┐        ┌────────────┐
+        │ Front-end │        │  Back-end  │
+        └─────┬─────┘        └──────┬─────┘
+              │                     │
+              └──────────┬──────────┘
+                         ▼
+                  ⚡ FULL STACK
+                         │
+                         ▼
+                  📱 SOCIAL MEDIA
 ```
 
 ---
 
-## 📱 Onde me encontrar
+# 🛠️ Tecnologias
 
-<p align="left">
-  <a href="https://instagram.com/aguis.ck">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red"/>
-  </a>
+### 🟢 Aprendendo
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-📸 **Instagram:** [@aguis.ck](https://instagram.com/aguis.ck)
+### 🔴 Quero aprender
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github" />
+</p>
+
+> Essas tecnologias fazem parte dos meus próximos objetivos de aprendizado.
 
 ---
 
-## 🩸 "Transformando ideias em código."
+# 📂 Projetos
+
+### 🚧 Em construção...
+
+Atualmente estou estudando e criando meus primeiros projetos.
+
+Em breve esta seção terá:
+
+* 🐍 Projetos em Python
+* 🌐 Projetos Web
+* 🗄️ Projetos envolvendo banco de dados
+* ⚡ Projetos Full Stack
+* 📱 Projetos relacionados a Social Media
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### ⚡ Thanks for visiting my profile! ⚡
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&include_all_commits=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&fontColor=ff0000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff"/>
+
+</div>
+
+---
+
+# 🔥 Minha atividade
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
+
+</div>
+
+---
+
+# 🎮 Além do código
+
+Quando não estou estudando programação, provavelmente estou:
+
+⚽ Assistindo ou jogando **futebol**
+🎮 Jogando algum jogo
+🎵 Escutando **música**
+🍥 Assistindo **anime**
+
+---
+
+# 🎯 Objetivos
+
+```text
+[████████░░] Aprender Python
+
+[███░░░░░░░] Desenvolver projetos
+
+[██░░░░░░░░] Aprender Front-end
+
+[█░░░░░░░░░] Aprender Back-end
+
+[█░░░░░░░░░] Full Stack Developer
+
+[█░░░░░░░░░] Social Media
+```
+
+---
+
+# 📱 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://instagram.com/aguis.ck">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> sudo apt-get install creativity`
+
+### 🩸 Code • Create • Learn • Evolve
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:330000,100:ff0000&height=120&section=footer"/>
 
 </div>
