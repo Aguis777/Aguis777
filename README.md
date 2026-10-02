@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Lucas Aguis Costa
 
-<!--
-**Aguis777/Aguis777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informática na **Etec Alberto Santos Dumont**  
+💻 Atualmente no **1º ano do curso**  
+🐍 Aprendendo **Python** e desenvolvendo minhas primeiras experiências com programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 👨‍💻 Estudante de Informática
+- 🐍 Atualmente estudando Python
+- 📚 Sempre buscando aprender coisas novas na área de tecnologia
+- 🎯 Objetivo: evoluir cada vez mais na programação e desenvolver meus próprios projetos
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+### 🐍 Atualmente aprendendo...
+
+```text
+Python █████░░░░░ 50%
